@@ -1,0 +1,266 @@
+body{
+  font-family: helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: black;
+}
+
+.ancho{
+  width: 1200px;
+  margin: auto;
+}
+
+.contenedor_menu{
+  
+}
+
+.logo_menu{
+  float: left;
+  
+}
+
+.menu{
+  float: left;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.menu a{
+  margin-left: 30px;
+  text-decoration: none;
+  color: black;
+   font-weight: bold;
+
+}
+
+.btn_firefox{
+  padding-left: 25px;
+  padding-right: 25px;
+  text-decoration: none;
+  float: right;
+  border: 1.5px blue solid;
+  border-radius: 8px;
+  color:blue;
+  display: inline-block;
+}
+
+.linea_gris{
+  background-color:#e0dede
+  ;
+  height: 2px;
+}
+
+.img_logof{
+  height: 50px;
+  width: 100px;
+  
+}
+
+.informacion_rapidez{
+  display: inline-block;
+  width: 600px;
+  vertical-align: top;
+  
+}
+
+.img_compu{
+  display: inline-block;
+  width: 500px;
+  vertical-align: middle;
+  
+  
+}
+
+.btn_descargar{
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 7px;
+  text-decoration: none;
+  background-color: blue;
+  color:white;
+  display: inline-block;
+}
+
+.privacidad{
+  font-size: 10px;
+  color: #807a7a; 
+}
+
+.contenedor_dinosaurio{
+  background-color: #f5f4f4;
+}
+
+.img_dinosaurio{
+  margin-left: 300px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+.texto_internet{
+  width: 250px;
+  display: inline-block;
+text-align: center;
+}
+.texto_internet h1{ 
+  line-height: 35px;
+}
+.texto_internet p{
+  width: 300px;
+}
+
+.nuestro{
+ 
+}
+.impacto{
+  padding-top: 15px;
+  margin-left: 40px;
+  display: inline-block;
+  vertical-align: top;
+  width: 500px;
+  
+}
+.impacto h2{
+  text-align: left;
+}
+.impacto p{
+  text-align: left;
+}
+
+.linea_media{
+  margin-left: 60px;
+  display: inline-block;
+  background-color: #d7d7d7;
+width: 2px ;
+height: 350px;
+
+}
+.innovaciones{
+  padding-top: 15px;
+  display: inline-block;
+  vertical-align: top;
+  width: 500px;
+  margin-left: 60px;
+}
+.listas_impacto{
+  
+  margin-left: -19px;
+}
+.listas_impacto a{
+  color:blue;
+  font-weight: bold;
+}
+.listas_innovacion a{
+  color:blue;
+  font-weight: bold;
+}
+
+.listas_innovacion{
+  
+  margin-left: -19px;
+}
+.secciones{
+  text-align: center;
+}
+.extensiones{
+  display: inline-block;
+  width: 400px;
+  vertical-align: top;
+}
+.img_extensiones{
+  width: 100px;
+}
+
+.extensiones h2{
+text-decoration:underline;
+}
+.empleos{
+  display: inline-block;
+  width: 300px;
+  margin-right: 95px;
+}
+
+.img_empleos{
+  width: 100px;
+}
+.empleos h2{
+  text-decoration: underline;
+}
+.ayuda{
+  display: inline-block;
+  width: 300px;
+}
+
+.img_ayuda{
+  width: 100px;
+}
+.ayuda h2{
+  text-decoration: underline;
+}
+
+.img_formulario{
+  display: inline-block;
+  margin-left: 250px;
+}
+
+.formulario{
+  display: inline-block;
+  margin-left: 65px;
+  vertical-align: top;
+}
+.f_diseño{
+  background-color: #ffffff;
+    border: 2px #e7e7e7 solid;
+    padding-right: 70px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 6px;
+    width: 300px;
+}
+
+.texto_f{
+  font-size: 13px;
+ font-weight: bold;
+margin-bottom: 0px;
+}
+
+.estilo_b{
+  text-align: center;
+  background-color:black;
+  color: white;
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 6px;
+  width: 385px;
+
+}
+
+.text_f{
+  font-size: 10px;
+  margin-top: 0px;
+  text-align: center;
+}
+.formulario h1{
+  line-height: 35px;
+}
+
+.contenedor_negro{
+  height: 140px;
+  background-color: black;
+}
+.contenedor_negro{
+
+  text-align: center;
+  
+}
+
+.contenedor_negro a{
+  display: inline-block;
+  padding-top: 70px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
